@@ -1,0 +1,30 @@
+[
+  {
+    "category": "தமிழ்த் தகுதித் தேர்வு_தாள் 1",
+    "quizzes": [
+      { "file": "TET_1.json", "title": "பயிற்சி 1" },
+      { "file": "TET_2.json", "title": "பயிற்சி 2" },
+      { "file": "TET_3.json", "title": "பயிற்சி 3" },
+      { "file": "TET_4.json", "title": "பயிற்சி 4" }
+    ]
+  },
+  {
+    "category": "தமிழ் முதன்மைத் தாள்_தாள் 2",
+    "quizzes": [
+      { "file": "Tamil_TRB_1.json", "title": "பயிற்சி 1" },
+      { "file": "Tamil_TRB_2.json", "title": "பயிற்சி 2" },
+      { "file": "Tamil_TRB_3.json", "title": "பயிற்சி 3" },
+      { "file": "Tamil_TRB_5.json", "title": "பயிற்சி 5" },
+      { "file": "Tamil_TRB_6.json", "title": "பயிற்சி 6" },
+      { "file": "Tamil_TRB_7.json", "title": "பயிற்சி 7" },
+      { "file": "Tamil_TRB_8.json", "title": "பயிற்சி 8" },
+      { "file": "Tamil_TRB_9.json", "title": "பயிற்சி 9" },
+      { "file": "Tamil_TRB_10.json", "title": "பயிற்சி 10" },
+      { "file": "Tamil_TRB_11.json", "title": "பயிற்சி 11" }
+    ]
+  }
+]
+
+
+
+
