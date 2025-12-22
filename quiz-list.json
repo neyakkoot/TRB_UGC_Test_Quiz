@@ -13,17 +13,18 @@
     "quizzes": [
       { "file": "Tamil_TRB_Test_1.json", "title": "தமிழ் இலக்கிய, இலக்கணம் 1" },
       { "file": "Tamil_TRB_Test_2.json", "title": "தமிழ் இலக்கிய, இலக்கணம் 2" },
-      { "file": "Tamil_TRB_Test_3.json", "title": "பயிற்சி 3" },
-      { "file": "Tamil_TRB_Test_5.json", "title": "பயிற்சி 5" },
-      { "file": "Tamil_TRB_Test_6.json", "title": "பயிற்சி 6" },
-      { "file": "Tamil_TRB_Test_7.json", "title": "பயிற்சி 7" },
-      { "file": "Tamil_TRB_Test_8.json", "title": "பயிற்சி 8" },
-      { "file": "Tamil_TRB_Test_9.json", "title": "பயிற்சி 9" },
-      { "file": "Tamil_TRB_Test_10.json", "title": "பயிற்சி 10" },
-      { "file": "Tamil_TRB_Test_11.json", "title": "பயிற்சி 11" }
+      { "file": "Tamil_TRB_Test_3.json", "title": "தமிழ் இலக்கிய, இலக்கணம் 3" },
+      { "file": "Tamil_TRB_Test_4.json", "title": "தமிழ் இலக்கிய, இலக்கணம் 4" },
+      { "file": "Tamil_TRB_Test_5.json", "title": "தமிழ் இலக்கிய, இலக்கணம் 5" },
+      { "file": "Tamil_TRB_Test_6.json", "title": "ஆழ்நிலைக்கற்றல் முறை 1" },
+      { "file": "Tamil_TRB_Test_7.json", "title": "ஆழ்நிலைக்கற்றல் முறை 2" },
+      { "file": "Tamil_TRB_Test_8.json", "title": "ஆழ்நிலைக்கற்றல் முறை 3" },
+      { "file": "Tamil_TRB_Test_9.json", "title": "பயிற்சி 10" },
+      { "file": "Tamil_TRB_Test_10.json", "title": "பயிற்சி 11" }
     ]
   }
 ]
+
 
 
 
